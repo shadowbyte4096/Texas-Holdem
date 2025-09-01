@@ -1,0 +1,20 @@
+.vs
+.vscode
+*.pyc
+*.user
+obj
+bin
+_site
+site
+snippetoutput
+/output
+/docs/output
+*~
+.cr
+packages
+coverage
+releasebuild
+launchSettings.json
+
+# Testing
+results.xml
